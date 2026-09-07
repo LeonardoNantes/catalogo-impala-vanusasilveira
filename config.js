@@ -10,7 +10,7 @@ const CONFIG = {
   // ---- Identificador único deste catálogo (marca + vendedor) ----
   // Usado pra checar na tabela "vendedores" se este catálogo está ativo
   // (assinatura em dia) ou pausado. Cada vendedor de cada marca tem o seu.
-  vendedorId: "impala-leonardo",
+  vendedorId: "VanusaSilveira07-impala",
 
   // ---- Marca / catálogo ----
   marca: "Impala",
@@ -19,11 +19,11 @@ const CONFIG = {
 
   // ---- Dados do vendedor (aparecem no cabeçalho e no link do WhatsApp) ----
   vendedor: {
-    nome: "Leonardo Nantes",
-    slogan: "O seu Vendedor!",
+    nome: "Vanusa Silveira",
+    slogan: "A sua Vendedora!",
     foto: "assets/vendedor-foto.jpg",
     // Número de WhatsApp no formato internacional, só números (DDI 55 + DDD + número)
-    whatsapp: "5547997375295",
+    whatsapp: "5534984123576",
   },
 
   // ---- Cores da marca (usadas no cabeçalho e nos botões) ----
